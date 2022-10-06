@@ -33,7 +33,7 @@ const About = (props) => {
 
         <div className="about-block-right">
           <img
-            src="https://raw.githubusercontent.com/vaibhav-setia/my-portfolio/master/public/images/photo.jpg?token=GHSAT0AAAAAABZT4M7CFBX3EVFYH52X3LZWYZ7KPMA"
+            src="https://i.postimg.cc/x8vcqPwS/IMG-4467.png"
             className="profile-photo"
             alt="img not found"
           />
