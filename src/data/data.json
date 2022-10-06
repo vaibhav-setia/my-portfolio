@@ -1,83 +1,76 @@
 {
-    "firstName": "Ashish",
-    "lastName": "Agarwal",
-    "role": "Full Stack Developer",
-    "linkedInUrl": "https://www.linkedin.com/in/ashish-agarwal-2101",
-    "githubUrl": "https://github.com/AshishAgarwal2101",
-    "aboutDescription": "Welcome to my page. I am <b>Ashish Agarwal</b>. I am currently pursuing my Masters in Computer Science at San Jose State University. I am actively <b>looking for Summer'23 internship opportunities for SWE/SDE roles</b>.\n\nI am open to work in hybrid as well as in-person setting. My job preference is simply to work with an employer who values their employees.",
-    "skills": [
-        {"name": "HTML & CSS", "percentage": 80},
-        {"name": "Javascript & ReactJS", "percentage": 90},
-        {"name": "Java", "percentage": 90},
-        {"name": "Scala", "percentage": 72},
-        {"name": "C", "percentage": 65},
-        {"name": "Spring Boot", "percentage": 85},
-        {"name": "Kafka", "percentage": 75},
-        {"name": "Elastic Search", "percentage": 81},
-        {"name": "Android Application Development", "percentage": 78},
-        {"name": "SQL", "percentage": 70},
-        {"name": "MongoDB", "percentage": 60}
-    ],
-    "projects": [
-        {
-            "name": "Kalpayita: A Machine Learning Approach to Interior Designing",
-            "description": "A voice-driven tool to convert the voice or text to a relevant 3D scene in a human understandable form. The application infers missing objects. It also has a scene modification option for changes to the existing scene.",
-            "working": "The interior designer has to speak out the description of the scene. For example, one could speak, \"There is a cake on the table\". The application would then generate the desired 3D scene with the look and feel of an interior design.",
-            "link": "https://youtu.be/r8xzs9WOgz0",
-            "paperPublicationLink": "http://ijsrd.com/Article.php?manuscript=IJSRDV6I30847"
-        },
-        {
-            "name": "Sign Language Gesture Recognition",
-            "description": "A PC application for recognizing the hand gestures for Indian Sign Language through a live video. The UI also has an option to train the application for new hand signs. This application is helpful for an ordinary person to understand deaf people.",
-            "working": "A camera should be connected to record a live video. The application would keep scanning for new gesture and displays it on the screen.",
-            "link": "https://youtu.be/qSdMSDVd2Zw"
-        },
-        {
-            "name": "Easy Cash",
-            "description": "Application to make online UPI payment simple by providing an interactive payment system, and facilitating the addition of multiple UPI accounts.",
-            "working": "The user needs to register using the bank's registered phone number by entering the OTP. Users can then add the registered bank, create a UPI pin, and enjoy simplified UPI payments to shops and friends. In addition, the user gets a unique feature to add more than one profile for another registered bank account.",
-            "link": "https://youtu.be/Nwr_vF2uL4M"
-        },
-        {
-            "name": "Smart Trauma Reliever (STAR) App",
-            "description": "Android Application that uses NLP and Machine Learning approaches to find crime violation types and report them. This is especially helpful as most people are not aware of whether a given act is a crime.",
-            "working": "The user needs to enter the description of the act that they believe to be a crime. Then, if the act falls under any legal sections, it would be shown to the user, and they would directly get an option to report the crime.",
-            "link": ""
-        },
-        {
-            "name": "Safety App",
-            "description": "An app for emergencies. Shaking the phone will send a danger message along with the location to selected contacts.",
-            "working": "When the app gets installed for the first time, the user needs to complete a one-time setup of adding emergency contacts. Then, during danger, the user needs to shake the phone thrice, which would send a Danger text message to the emergency contacts and the user's location.",
-            "link": ""
-        }
-    ],
-    "experience": [
-        {
-            "name": "Zomentum",
-            "duration": "September 2021 - May 2022",
-            "details": [
-                "Upskilled myself by learning scala and play framework.",
-                "Worked on integrations with 3rd party professional services automation.",
-                "Set up scheduled jobs in AWS lambda using events generated in AWS Kinesis.",
-                "Quick turnarounds on customer bugs."
-            ]
-        },
-        {
-            "name": "JP Morgan Chase and Co.",
-            "duration": "July 2018 - September 2021",
-            "details": [
-                "Worked in both frontend (particularly Javascript and React) and backend (particularly Java with Spring Boot).",
-                "Worked on maintenance and development on elastic search. It involved full indexing and delta indexing jobs, retrieval queries.",
-                "Created kafka clusters for multiple consumers, and consumed from third-party, all as kafka as a messaging platform.",
-                "Initiated and worked towards the migration of application from one front-end architecture to another. Built complete front-end application from scratch while using necessary tools and packages.",
-                "Took initiatives on architectural design suggestions. Many of these suggestions were taken up as decisions by the architect team.",
-                "Got promoted to Associate Software Engineer.",
-                "Responsible for improving and deploying the applications used by the team. Led many production releases. Followed Agile methodology for efficient work."
-            ]
-        }
-    ],
-    "header": {
-        "backgroundColor": "white",
-        "fontPrimaryColor": "black"
+  "firstName": "Vaibhav",
+  "lastName": "Setia",
+  "role": "Full Stack Developer",
+  "linkedInUrl": "https://www.linkedin.com/in/vaibhav-setia/",
+  "githubUrl": "https://github.com/vaibhav-setia",
+  "aboutDescription": "Welcome to my page. I am <b>Vaibhav Setia</b>. I am currently pursuing my Masters in Computer Science at Northeastern University. I am actively <b>looking for Summer'23 internship opportunities for SWE/SDE roles</b>.\n\nI am open to work in hybrid as well as in-person setting. My job preference is simply to work with an employer who values their employees.",
+  "skills": [
+    { "name": "HTML & CSS", "percentage": 80 },
+    { "name": "Javascript & ReactJS", "percentage": 90 },
+    { "name": "Java", "percentage": 90 },
+    { "name": "Scala", "percentage": 72 },
+    { "name": "C", "percentage": 65 },
+    { "name": "Spring Boot", "percentage": 85 },
+    { "name": "Kafka", "percentage": 75 },
+    { "name": "Elastic Search", "percentage": 81 },
+    { "name": "Android Application Development", "percentage": 78 },
+    { "name": "SQL", "percentage": 70 },
+    { "name": "MongoDB", "percentage": 60 }
+  ],
+  "projects": [
+    {
+      "name": "Mindset Analysis Using Psychometric Games",
+      "description": "Developed a web portal of games for psychometric analysis of teachers' mindset. Designed and built the games in react with PostgreSQL and hosted on AWS.",
+      "working": "\n\n--------",
+      "link": "#",
+      "paperPublicationLink": "#"
+    },
+    {
+      "name": "Digital Attendance System",
+      "description": "Proposed and prototyped a solution to automate the attendance system using facial recognition.Implemented a web application to enable teachers and students to get attendance report in a single click.",
+      "working": "\n\n---------",
+      "link": "#"
+    },
+    {
+      "name": "Vehicle Registration and Information System",
+      "description": "Built an end to end solution to register and identify all the vehicles commuting in and out of the college.Created an android app to register all vehicles and create/scan parking QR codes. Automated the vehicle tracking using number plate recognition and reduced the manual efforts.",
+      "working": "\n\n ------------",
+      "link": "#"
     }
+  ],
+  "experience": [
+    {
+      "name": "JP Morgan Chase & Co.",
+      "duration": "August 2020 - August 2022",
+      "details": [
+        "Software Developer II",
+        "Upgraded the security layer of 15+ microservices by fixing dependency compatibilities and version mismatches.",
+        "Refactored various microservices and REST APIs to use caching, reduce API response time by 90%.",
+        "Developed and maintained elastic search indexes involving full indexing and delta indexing jobs, retrieval queries."
+      ]
+    },
+    {
+      "name": "JP Morgan Chase and Co.",
+      "duration": "January 2019 - July 2019",
+      "details": [
+        "Software Engineering Intern",
+        "Migrated various post trading reports from SQL database to No SQL Athena database.",
+        "Refactored report trading logic to fix bugs and decrease report generation time by approx. 1 hour."
+      ]
+    },
+    {
+      "name": "Indian Institute of Technology (IIT) ",
+      "duration": "Summer 2018",
+      "details": [
+        "Image Processing Research Intern",
+        "Designed and implemented an algorithm to deblur image frames of a video.",
+        "Built scripts in C++ and Matlab to reduce image distortion by over 50%."
+      ]
+    }
+  ],
+  "header": {
+    "backgroundColor": "white",
+    "fontPrimaryColor": "black"
+  }
 }
