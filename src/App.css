@@ -32,7 +32,7 @@ a {
 
 .header-left {
   display: inline-block;
-  padding-left: 30px;;
+  padding-left: 30px;
   font-weight: bold;
 }
 
@@ -71,7 +71,7 @@ a {
 
 .about-left-design:after {
   border-right: 100px solid #333333;
-  border-top: 200px solid  #ececec;
+  border-top: 200px solid #ececec;
 }
 
 .profile-photo {
@@ -85,7 +85,7 @@ a {
 .about-block {
   width: 45%;
   box-shadow: 0 0px 21px 0 rgb(0 0 0 / 60%);
-  height:  650px;
+  height: 650px;
   background-color: #cccccc;
   border-radius: 10px;
   position: absolute;
@@ -143,7 +143,7 @@ a {
 
 .about-description {
   margin-top: 30px;
-  font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 17px;
   color: #444444;
   white-space: pre-line;
@@ -205,24 +205,24 @@ a {
 .slanted-right.slant-to-left:after {
   left: -100px;
   border-right: 250px solid #cccccc;
-  border-top: 900px solid  #e6e6e6;
+  border-top: 900px solid #e6e6e6;
 }
 
 .page {
   padding: 150px 5%;
   background-color: #39bf4a;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   text-align: center;
   color: white;
   position: relative;
 }
 
 .skills {
-  background-color: #39bf4a;
+  background-color: lightcoral;
 }
 
 .page-header {
-  font-size: 6.0rem;
+  font-size: 6rem;
 }
 
 .page-content {
@@ -251,7 +251,7 @@ a {
   display: inline-block;
 }
 
-.skill-bar>div:first-child {
+.skill-bar > div:first-child {
   height: 10px;
   background-color: white;
   border-radius: 20px;
@@ -266,7 +266,7 @@ a {
   margin-left: 20px;
   padding: 10px;
   background-color: white;
-  color: #39bf4a;
+  color: lightcoral;
   border-radius: 50%;
 }
 
@@ -366,7 +366,7 @@ a {
   display: block !important;
 }
 
-.right-project-line { 
+.right-project-line {
   right: 400px;
   position: absolute;
   width: calc(50% - 410px);
